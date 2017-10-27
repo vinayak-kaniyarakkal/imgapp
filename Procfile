@@ -1,1 +1,1 @@
-web: python djpractice/manage.py runserver
+web: python djpractice/manage.py runserver 0.0.0.0:$PORT
